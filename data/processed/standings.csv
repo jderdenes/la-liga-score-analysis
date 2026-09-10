@@ -1,0 +1,201 @@
+season,position,team,team_official,played,wins,draws,losses,goals_for,goals_against,goal_difference,points
+2010-11,1,Barcelona,FC Barcelona,38,30,6,2,95,21,74,96
+2010-11,2,Real Madrid,Real Madrid CF,38,29,5,4,102,33,69,92
+2010-11,3,Valencia,Valencia CF,38,21,8,9,64,44,20,71
+2010-11,4,Villarreal,Villarreal CF,38,18,8,12,54,44,10,62
+2010-11,5,Ath Madrid,Club Atlético de Madrid,38,17,7,14,62,53,9,58
+2010-11,6,Ath Bilbao,Athletic Bilbao,38,18,4,16,59,55,4,58
+2010-11,7,Sevilla,Sevilla FC,38,17,7,14,62,61,1,58
+2010-11,8,Espanol,RCD Espanyol,38,15,4,19,46,55,-9,49
+2010-11,9,Osasuna,CA Osasuna,38,13,8,17,45,46,-1,47
+2010-11,10,Sp Gijon,Sporting Gijón,38,11,14,13,35,42,-7,47
+2010-11,11,Malaga,Málaga CF,38,13,7,18,54,68,-14,46
+2010-11,12,Santander,Racing Santander,38,12,10,16,41,56,-15,46
+2010-11,13,Levante,Levante UD,38,12,9,17,41,52,-11,45
+2010-11,14,Zaragoza,Real Zaragoza,38,12,9,17,40,53,-13,45
+2010-11,15,Sociedad,Real Sociedad,38,14,3,21,49,66,-17,45
+2010-11,16,Getafe,Getafe CF,38,12,8,18,49,60,-11,44
+2010-11,17,Mallorca,RCD Mallorca,38,12,8,18,41,56,-15,44
+2010-11,18,La Coruna,Deportivo La Coruña,38,10,13,15,31,47,-16,43
+2010-11,19,Hercules,Hércules CF,38,9,8,21,36,60,-24,35
+2010-11,20,Almeria,UD Almería,38,6,12,20,36,70,-34,30
+2011-12,1,Real Madrid,Real Madrid CF,38,32,4,2,121,32,89,100
+2011-12,2,Barcelona,FC Barcelona,38,28,7,3,114,29,85,91
+2011-12,3,Valencia,Valencia CF,38,17,10,11,59,44,15,61
+2011-12,4,Malaga,Málaga CF,38,17,7,14,54,53,1,58
+2011-12,5,Ath Madrid,Club Atlético de Madrid,38,15,11,12,53,46,7,56
+2011-12,6,Levante,Levante UD,38,16,7,15,54,50,4,55
+2011-12,7,Osasuna,CA Osasuna,38,13,15,10,44,61,-17,54
+2011-12,8,Mallorca,RCD Mallorca,38,14,10,14,42,46,-4,52
+2011-12,9,Sevilla,Sevilla FC,38,13,11,14,48,47,1,50
+2011-12,10,Ath Bilbao,Athletic Bilbao,38,12,13,13,49,52,-3,49
+2011-12,11,Sociedad,Real Sociedad,38,12,11,15,46,52,-6,47
+2011-12,12,Betis,Real Betis Balompié,38,13,8,17,47,56,-9,47
+2011-12,13,Getafe,Getafe CF,38,12,11,15,40,51,-11,47
+2011-12,14,Espanol,RCD Espanyol,38,12,10,16,46,56,-10,46
+2011-12,15,Vallecano,Rayo Vallecano,38,13,4,21,53,73,-20,43
+2011-12,16,Zaragoza,Real Zaragoza,38,12,7,19,36,61,-25,43
+2011-12,17,Granada,Granada CF,38,12,6,20,35,56,-21,42
+2011-12,18,Villarreal,Villarreal CF,38,9,14,15,39,53,-14,41
+2011-12,19,Sp Gijon,Sporting Gijón,38,10,7,21,42,69,-27,37
+2011-12,20,Santander,Racing Santander,38,4,15,19,28,63,-35,27
+2012-13,1,Barcelona,FC Barcelona,38,32,4,2,115,40,75,100
+2012-13,2,Real Madrid,Real Madrid CF,38,26,7,5,103,42,61,85
+2012-13,3,Ath Madrid,Club Atlético de Madrid,38,23,7,8,65,31,34,76
+2012-13,4,Sociedad,Real Sociedad,38,18,12,8,70,49,21,66
+2012-13,5,Valencia,Valencia CF,38,19,8,11,67,54,13,65
+2012-13,6,Malaga,Málaga CF,38,16,9,13,53,50,3,57
+2012-13,7,Betis,Real Betis Balompié,38,16,8,14,57,56,1,56
+2012-13,8,Vallecano,Rayo Vallecano,38,16,5,17,50,66,-16,53
+2012-13,9,Sevilla,Sevilla FC,38,14,8,16,58,54,4,50
+2012-13,10,Getafe,Getafe CF,38,13,8,17,43,57,-14,47
+2012-13,11,Levante,Levante UD,38,12,10,16,40,57,-17,46
+2012-13,12,Ath Bilbao,Athletic Bilbao,38,12,9,17,44,65,-21,45
+2012-13,13,Espanol,RCD Espanyol,38,11,11,16,43,52,-9,44
+2012-13,14,Valladolid,Real Valladolid CF,38,11,10,17,49,58,-9,43
+2012-13,15,Granada,Granada CF,38,11,9,18,37,54,-17,42
+2012-13,16,Osasuna,CA Osasuna,38,10,9,19,33,50,-17,39
+2012-13,17,Celta,RC Celta de Vigo,38,10,7,21,37,52,-15,37
+2012-13,18,Mallorca,RCD Mallorca,38,9,9,20,43,72,-29,36
+2012-13,19,La Coruna,Deportivo La Coruña,38,8,11,19,47,70,-23,35
+2012-13,20,Zaragoza,Real Zaragoza,38,9,7,22,37,62,-25,34
+2013-14,1,Ath Madrid,Club Atlético de Madrid,38,28,6,4,77,26,51,90
+2013-14,2,Barcelona,FC Barcelona,38,27,6,5,100,33,67,87
+2013-14,3,Real Madrid,Real Madrid CF,38,27,6,5,104,38,66,87
+2013-14,4,Ath Bilbao,Athletic Bilbao,38,20,10,8,66,39,27,70
+2013-14,5,Sevilla,Sevilla FC,38,18,9,11,69,52,17,63
+2013-14,6,Villarreal,Villarreal CF,38,17,8,13,60,44,16,59
+2013-14,7,Sociedad,Real Sociedad,38,16,11,11,62,55,7,59
+2013-14,8,Valencia,Valencia CF,38,13,10,15,51,53,-2,49
+2013-14,9,Celta,RC Celta de Vigo,38,14,7,17,49,54,-5,49
+2013-14,10,Levante,Levante UD,38,12,12,14,35,43,-8,48
+2013-14,11,Malaga,Málaga CF,38,12,9,17,39,46,-7,45
+2013-14,12,Vallecano,Rayo Vallecano,38,13,4,21,46,80,-34,43
+2013-14,13,Espanol,RCD Espanyol,38,11,9,18,41,51,-10,42
+2013-14,14,Getafe,Getafe CF,38,11,9,18,35,54,-19,42
+2013-14,15,Granada,Granada CF,38,12,5,21,32,56,-24,41
+2013-14,16,Elche,Elche CF,38,9,13,16,30,50,-20,40
+2013-14,17,Almeria,UD Almería,38,11,7,20,43,71,-28,40
+2013-14,18,Osasuna,CA Osasuna,38,10,9,19,32,62,-30,39
+2013-14,19,Valladolid,Real Valladolid CF,38,7,15,16,38,60,-22,36
+2013-14,20,Betis,Real Betis Balompié,38,6,7,25,36,78,-42,25
+2014-15,1,Barcelona,FC Barcelona,38,30,4,4,110,21,89,94
+2014-15,2,Real Madrid,Real Madrid CF,38,30,2,6,118,38,80,92
+2014-15,3,Ath Madrid,Club Atlético de Madrid,38,23,9,6,67,29,38,78
+2014-15,4,Valencia,Valencia CF,38,22,11,5,70,32,38,77
+2014-15,5,Sevilla,Sevilla FC,38,23,7,8,71,45,26,76
+2014-15,6,Villarreal,Villarreal CF,38,16,12,10,48,37,11,60
+2014-15,7,Ath Bilbao,Athletic Bilbao,38,15,10,13,42,41,1,55
+2014-15,8,Celta,RC Celta de Vigo,38,13,12,13,47,44,3,51
+2014-15,9,Malaga,Málaga CF,38,14,8,16,42,48,-6,50
+2014-15,10,Espanol,RCD Espanyol,38,13,10,15,47,51,-4,49
+2014-15,11,Vallecano,Rayo Vallecano,38,15,4,19,46,68,-22,49
+2014-15,12,Sociedad,Real Sociedad,38,11,13,14,44,51,-7,46
+2014-15,13,Elche,Elche CF,38,11,8,19,35,62,-27,41
+2014-15,14,Getafe,Getafe CF,38,10,7,21,33,64,-31,37
+2014-15,15,Levante,Levante UD,38,9,10,19,34,67,-33,37
+2014-15,16,Eibar,SD Eibar,38,9,8,21,34,55,-21,35
+2014-15,17,La Coruna,Deportivo La Coruña,38,7,14,17,35,60,-25,35
+2014-15,18,Granada,Granada CF,38,7,14,17,29,64,-35,35
+2014-15,19,Almeria,UD Almería,38,8,8,22,35,64,-29,32
+2014-15,20,Cordoba,Córdoba CF,38,3,11,24,22,68,-46,20
+2015-16,1,Barcelona,FC Barcelona,38,29,4,5,112,29,83,91
+2015-16,2,Real Madrid,Real Madrid CF,38,28,6,4,110,34,76,90
+2015-16,3,Ath Madrid,Club Atlético de Madrid,38,28,4,6,63,18,45,88
+2015-16,4,Villarreal,Villarreal CF,38,18,10,10,44,35,9,64
+2015-16,5,Ath Bilbao,Athletic Bilbao,38,18,8,12,58,45,13,62
+2015-16,6,Celta,RC Celta de Vigo,38,17,9,12,51,59,-8,60
+2015-16,7,Sevilla,Sevilla FC,38,14,10,14,51,50,1,52
+2015-16,8,Malaga,Málaga CF,38,12,12,14,38,35,3,48
+2015-16,9,Sociedad,Real Sociedad,38,13,9,16,45,48,-3,48
+2015-16,10,Betis,Real Betis Balompié,38,11,12,15,34,52,-18,45
+2015-16,11,Valencia,Valencia CF,38,11,11,16,46,48,-2,44
+2015-16,12,Las Palmas,UD Las Palmas,38,12,8,18,45,53,-8,44
+2015-16,13,Eibar,SD Eibar,38,11,10,17,49,61,-12,43
+2015-16,14,Espanol,RCD Espanyol,38,12,7,19,40,74,-34,43
+2015-16,15,La Coruna,Deportivo La Coruña,38,8,18,12,45,61,-16,42
+2015-16,16,Sp Gijon,Sporting Gijón,38,10,9,19,40,62,-22,39
+2015-16,17,Granada,Granada CF,38,10,9,19,46,69,-23,39
+2015-16,18,Vallecano,Rayo Vallecano,38,9,11,18,52,73,-21,38
+2015-16,19,Getafe,Getafe CF,38,9,9,20,37,67,-30,36
+2015-16,20,Levante,Levante UD,38,8,8,22,37,70,-33,32
+2016-17,1,Real Madrid,Real Madrid CF,38,29,6,3,106,41,65,93
+2016-17,2,Barcelona,FC Barcelona,38,28,6,4,116,37,79,90
+2016-17,3,Ath Madrid,Club Atlético de Madrid,38,23,9,6,70,27,43,78
+2016-17,4,Sevilla,Sevilla FC,38,21,9,8,69,49,20,72
+2016-17,5,Villarreal,Villarreal CF,38,19,10,9,56,33,23,67
+2016-17,6,Sociedad,Real Sociedad,38,19,7,12,59,53,6,64
+2016-17,7,Ath Bilbao,Athletic Bilbao,38,19,6,13,53,43,10,63
+2016-17,8,Espanol,RCD Espanyol,38,15,11,12,49,50,-1,56
+2016-17,9,Alaves,Deportivo Alavés,38,14,13,11,41,43,-2,55
+2016-17,10,Eibar,SD Eibar,38,15,9,14,56,51,5,54
+2016-17,11,Malaga,Málaga CF,38,12,10,16,49,55,-6,46
+2016-17,12,Valencia,Valencia CF,38,13,7,18,56,65,-9,46
+2016-17,13,Celta,RC Celta de Vigo,38,13,6,19,53,69,-16,45
+2016-17,14,Las Palmas,UD Las Palmas,38,10,9,19,53,74,-21,39
+2016-17,15,Betis,Real Betis Balompié,38,10,9,19,41,64,-23,39
+2016-17,16,La Coruna,Deportivo La Coruña,38,8,12,18,43,61,-18,36
+2016-17,17,Leganes,CD Leganés,38,8,11,19,36,55,-19,35
+2016-17,18,Sp Gijon,Sporting Gijón,38,7,10,21,42,72,-30,31
+2016-17,19,Osasuna,CA Osasuna,38,4,10,24,40,94,-54,22
+2016-17,20,Granada,Granada CF,38,4,8,26,30,82,-52,20
+2017-18,1,Barcelona,FC Barcelona,38,28,9,1,99,29,70,93
+2017-18,2,Ath Madrid,Club Atlético de Madrid,38,23,10,5,58,22,36,79
+2017-18,3,Real Madrid,Real Madrid CF,38,22,10,6,94,44,50,76
+2017-18,4,Valencia,Valencia CF,38,22,7,9,65,38,27,73
+2017-18,5,Villarreal,Villarreal CF,38,18,7,13,57,50,7,61
+2017-18,6,Betis,Real Betis Balompié,38,18,6,14,60,61,-1,60
+2017-18,7,Sevilla,Sevilla FC,38,17,7,14,49,58,-9,58
+2017-18,8,Getafe,Getafe CF,38,15,10,13,42,33,9,55
+2017-18,9,Eibar,SD Eibar,38,14,9,15,44,50,-6,51
+2017-18,10,Girona,Girona FC,38,14,9,15,50,59,-9,51
+2017-18,11,Sociedad,Real Sociedad,38,14,7,17,66,59,7,49
+2017-18,12,Celta,RC Celta de Vigo,38,13,10,15,59,60,-1,49
+2017-18,13,Espanol,RCD Espanyol,38,12,13,13,36,42,-6,49
+2017-18,14,Alaves,Deportivo Alavés,38,15,2,21,40,50,-10,47
+2017-18,15,Levante,Levante UD,38,11,13,14,44,58,-14,46
+2017-18,16,Ath Bilbao,Athletic Bilbao,38,10,13,15,41,49,-8,43
+2017-18,17,Leganes,CD Leganés,38,12,7,19,34,51,-17,43
+2017-18,18,La Coruna,Deportivo La Coruña,38,6,11,21,38,76,-38,29
+2017-18,19,Las Palmas,UD Las Palmas,38,5,7,26,24,74,-50,22
+2017-18,20,Malaga,Málaga CF,38,5,5,28,24,61,-37,20
+2018-19,1,Barcelona,FC Barcelona,38,26,9,3,90,36,54,87
+2018-19,2,Ath Madrid,Club Atlético de Madrid,38,22,10,6,55,29,26,76
+2018-19,3,Real Madrid,Real Madrid CF,38,21,5,12,63,46,17,68
+2018-19,4,Valencia,Valencia CF,38,15,16,7,51,35,16,61
+2018-19,5,Sevilla,Sevilla FC,38,17,8,13,62,47,15,59
+2018-19,6,Getafe,Getafe CF,38,15,14,9,48,35,13,59
+2018-19,7,Espanol,RCD Espanyol,38,14,11,13,48,50,-2,53
+2018-19,8,Ath Bilbao,Athletic Bilbao,38,13,14,11,41,45,-4,53
+2018-19,9,Sociedad,Real Sociedad,38,13,11,14,45,46,-1,50
+2018-19,10,Betis,Real Betis Balompié,38,14,8,16,44,52,-8,50
+2018-19,11,Alaves,Deportivo Alavés,38,13,11,14,39,50,-11,50
+2018-19,12,Eibar,SD Eibar,38,11,14,13,46,50,-4,47
+2018-19,13,Leganes,CD Leganés,38,11,12,15,37,43,-6,45
+2018-19,14,Villarreal,Villarreal CF,38,10,14,14,49,52,-3,44
+2018-19,15,Levante,Levante UD,38,11,11,16,59,66,-7,44
+2018-19,16,Celta,RC Celta de Vigo,38,10,11,17,53,62,-9,41
+2018-19,17,Valladolid,Real Valladolid CF,38,10,11,17,32,51,-19,41
+2018-19,18,Girona,Girona FC,38,9,10,19,37,53,-16,37
+2018-19,19,Huesca,SD Huesca,38,7,12,19,43,65,-22,33
+2018-19,20,Vallecano,Rayo Vallecano,38,8,8,22,41,70,-29,32
+2019-20,1,Real Madrid,Real Madrid CF,38,26,9,3,70,25,45,87
+2019-20,2,Barcelona,FC Barcelona,38,25,7,6,86,38,48,82
+2019-20,3,Ath Madrid,Club Atlético de Madrid,38,18,16,4,51,27,24,70
+2019-20,4,Sevilla,Sevilla FC,38,19,13,6,54,34,20,70
+2019-20,5,Villarreal,Villarreal CF,38,18,6,14,63,49,14,60
+2019-20,6,Sociedad,Real Sociedad,38,16,8,14,56,48,8,56
+2019-20,7,Granada,Granada CF,38,16,8,14,52,45,7,56
+2019-20,8,Getafe,Getafe CF,38,14,12,12,43,37,6,54
+2019-20,9,Valencia,Valencia CF,38,14,11,13,46,53,-7,53
+2019-20,10,Osasuna,CA Osasuna,38,13,13,12,46,54,-8,52
+2019-20,11,Ath Bilbao,Athletic Bilbao,38,13,12,13,41,38,3,51
+2019-20,12,Levante,Levante UD,38,14,7,17,47,53,-6,49
+2019-20,13,Valladolid,Real Valladolid CF,38,9,15,14,32,43,-11,42
+2019-20,14,Eibar,SD Eibar,38,11,9,18,39,56,-17,42
+2019-20,15,Betis,Real Betis Balompié,38,10,11,17,48,60,-12,41
+2019-20,16,Alaves,Deportivo Alavés,38,10,9,19,34,59,-25,39
+2019-20,17,Celta,RC Celta de Vigo,38,7,16,15,37,49,-12,37
+2019-20,18,Leganes,CD Leganés,38,8,12,18,30,51,-21,36
+2019-20,19,Mallorca,RCD Mallorca,38,9,6,23,40,65,-25,33
+2019-20,20,Espanol,RCD Espanyol,38,5,10,23,27,58,-31,25

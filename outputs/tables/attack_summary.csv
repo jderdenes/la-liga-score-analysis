@@ -1,0 +1,34 @@
+team,team_official,seasons_played,matches,goals_for,home_matches,away_matches,home_goals_for,away_goals_for,max_goals_in_season,avg_goals_per_season,goals_for_per_match,home_goals_for_per_match,away_goals_for_per_match
+Barcelona,FC Barcelona,10,380,1037,190,190,597,440,116,103.7,2.73,3.14,2.32
+Real Madrid,Real Madrid CF,10,380,991,190,190,570,421,121,99.1,2.61,3.0,2.22
+Ath Madrid,Club Atlético de Madrid,10,380,621,190,190,367,254,77,62.1,1.63,1.93,1.34
+Sevilla,Sevilla FC,10,380,593,190,190,359,234,71,59.3,1.56,1.89,1.23
+Valencia,Valencia CF,10,380,575,190,190,339,236,70,57.5,1.51,1.78,1.24
+Sociedad,Real Sociedad,10,380,542,190,190,319,223,70,54.2,1.43,1.68,1.17
+Villarreal,Villarreal CF,9,342,470,171,171,285,185,63,52.22222222222222,1.37,1.67,1.08
+Ath Bilbao,Athletic Bilbao,10,380,494,190,190,290,204,66,49.4,1.3,1.53,1.07
+Celta,RC Celta de Vigo,8,304,386,152,152,222,164,59,48.25,1.27,1.46,1.08
+Vallecano,Rayo Vallecano,6,228,288,114,114,164,124,53,48.0,1.26,1.44,1.09
+Betis,Real Betis Balompié,8,304,367,152,152,208,159,60,45.875,1.21,1.37,1.05
+Eibar,SD Eibar,6,228,268,114,114,157,111,56,44.666666666666664,1.18,1.38,0.97
+Malaga,Málaga CF,8,304,353,152,152,219,134,54,44.125,1.16,1.44,0.88
+Girona,Girona FC,2,76,87,38,38,43,44,50,43.5,1.14,1.13,1.16
+Levante,Levante UD,9,342,391,171,171,231,160,59,43.44444444444444,1.14,1.35,0.94
+Huesca,SD Huesca,1,38,43,19,19,24,19,43,43.0,1.13,1.26,1.0
+Espanol,RCD Espanyol,10,380,423,190,190,248,175,49,42.3,1.11,1.31,0.92
+Mallorca,RCD Mallorca,4,152,166,76,76,97,69,43,41.5,1.09,1.28,0.91
+Getafe,Getafe CF,9,342,370,171,171,220,150,49,41.111111111111114,1.08,1.29,0.88
+Las Palmas,UD Las Palmas,3,114,122,57,57,73,49,53,40.666666666666664,1.07,1.28,0.86
+Osasuna,CA Osasuna,6,228,240,114,114,138,102,46,40.0,1.05,1.21,0.89
+Sp Gijon,Sporting Gijón,4,152,159,76,76,101,58,42,39.75,1.05,1.33,0.76
+La Coruna,Deportivo La Coruña,6,228,239,114,114,141,98,47,39.833333333333336,1.05,1.24,0.86
+Alaves,Deportivo Alavés,4,152,154,76,76,79,75,41,38.5,1.01,1.04,0.99
+Almeria,UD Almería,3,114,114,57,57,69,45,43,38.0,1.0,1.21,0.79
+Valladolid,Real Valladolid CF,4,152,151,76,76,83,68,49,37.75,0.99,1.09,0.89
+Zaragoza,Real Zaragoza,3,114,113,57,57,68,45,40,37.666666666666664,0.99,1.19,0.79
+Granada,Granada CF,7,266,261,133,133,143,118,52,37.285714285714285,0.98,1.08,0.89
+Hercules,Hércules CF,1,38,36,19,19,27,9,36,36.0,0.95,1.42,0.47
+Santander,Racing Santander,2,76,69,38,38,36,33,41,34.5,0.91,0.95,0.87
+Leganes,CD Leganés,4,152,137,76,76,77,60,37,34.25,0.9,1.01,0.79
+Elche,Elche CF,2,76,65,38,38,32,33,35,32.5,0.86,0.84,0.87
+Cordoba,Córdoba CF,1,38,22,19,19,12,10,22,22.0,0.58,0.63,0.53
